@@ -18,7 +18,12 @@ _A GitHub Actions CI is setup to run build and tests on each commit in the main 
 
 ### Screenshots 📸
 
-
+![Animated](https://github.com/Aklilu-Mandefro/football-scoreboard-app-using-react-vite-and-vitest/blob/main/screenshots/animated.gif)
+![Starting games](https://github.com/Aklilu-Mandefro/football-scoreboard-app-using-react-vite-and-vitest/blob/main/screenshots/starting-games.png)
+![Running games](https://github.com/Aklilu-Mandefro/scoreboard/blob/main/screenshots/running-games.png)
+![Finalizing games](https://github.com/Aklilu-Mandefro/football-scoreboard-app-using-react-vite-and-vitest/blob/main/screenshots/finalizing-games.png)
+![Desktop View](https://github.com/Aklilu-Mandefro/football-scoreboard-app-using-react-vite-and-vitest/blob/main/screenshots/desktop-view.png)
+![iPad View](https://github.com/Aklilu-Mandefro/football-scoreboard-app-using-react-vite-and-vitest/blob/main/screenshots/ipad-view.png)
 
 
 ## Application features: ⚙️
