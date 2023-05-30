@@ -89,5 +89,4 @@ To run the tests:
 ```shell
   yarn test
 ```
-
-
+## ✍️ Please give this repo a ⭐ if you found it helpful.
